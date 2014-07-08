@@ -19,3 +19,12 @@
 *.exe
 *.out
 *.app
+
+# Vim temp files
+.*sw?
+
+# Sconstruct local files
+.sconsign.dblite
+
+# Comp 15 files to be ignored
+teststack-soln
