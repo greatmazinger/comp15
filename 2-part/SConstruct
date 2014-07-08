@@ -1,0 +1,2 @@
+env = Environment( CPPFLAGS = "-Wall -O3" )
+env.Program( "sort_example", [ "sort_example.cpp" ] )
