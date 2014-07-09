@@ -1,2 +1,2 @@
 env = Environment( CPPFLAGS = "-Wall -O3" )
-env.Program( "teststack-soln", [ "teststack-soln.cpp" ] )
+env.Program( "teststack", [ "teststack.cpp" ] )
